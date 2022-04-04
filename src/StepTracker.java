@@ -12,14 +12,8 @@ public class StepTracker {
 
     public class MonthData {
         int[] days = new int[30];// Заполните класс самостоятельно
-
-        public MonthData() {
-            for (int i = 0; i < days.length; i++) {
-                days[i] = 0;
-
-            }
         }
-    }
+
 
     public void saveSteps(int month, int day, int stepps) {
         MonthData month1 = months[month];
