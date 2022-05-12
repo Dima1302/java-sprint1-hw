@@ -1,2 +1,2 @@
-# java-sprint1-hw
+# My first project
 First sprint homework
